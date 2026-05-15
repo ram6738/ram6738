@@ -1,17 +1,24 @@
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+  <img src="https://files.catbox.moe/an1iot.png"
+       height="300"
+       style="display:block; border-radius:8px; margin:0;">
+</td>
 
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
+<td>
+  <img src="https://files.catbox.moe/tq9mlt.jpg"
+       height="300"
+       style="display:block; border-radius:8px; margin:0;">
+</td>
 
-  <!-- Left Image -->
-  <img src="https://files.catbox.moe/an1iot.png" style="height:300px; width:auto; object-fit:cover; border-radius:8px;"  />
-
-  <!-- Banner / Center -->
-  <img src="https://files.catbox.moe/tq9mlt.jpg" style="height:300px; width:auto; border-radius:8px;" />
-
-  <!-- Right Image -->
-  <img src="https://files.catbox.moe/b04xyt.png" style="height:302px; width:auto; object-fit:cover; border-radius:8px;"  />
-
-</div>
-<br>
+<td>
+  <img src="https://files.catbox.moe/b04xyt.png"
+       height="300"
+       style="display:block; border-radius:8px; margin:0;">
+</td>
+</tr>
+</table>
 <br>
 
 <div align="center" > 
