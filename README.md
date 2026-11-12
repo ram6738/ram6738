@@ -57,18 +57,14 @@
 <br><br>
 
 <table>
-  <tr>
-    <td>
-<img src="https://files.catbox.moe/bresc8.png"  height="85px" width="1000px" >
-    </td>
-  </tr>
 <tr>
   <td align="center">
-    
-![](https://github-readme-stats.shion.dev/api?username=ram6738&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ram6738&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ram6738&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+   <p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/ram6738/ram6738/output/tulkun/tulkun.gif" width="640" alt="ram6738's git-tulkun" />
+  </a>
+</p> 
+   
 </td>
 </tr>
 </table>
