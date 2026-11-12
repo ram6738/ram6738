@@ -54,17 +54,15 @@
 </td>
 </tr>
 </table>
-<br><br>
-
-<table>
+<br>
+<table align="center">
 <tr>
-  <td align="center">
+  <td align="center" >
    <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
     <img src="https://raw.githubusercontent.com/ram6738/ram6738/output/tulkun/tulkun.gif" width="640" alt="ram6738's git-tulkun" />
   </a>
 </p> 
-   
 </td>
 </tr>
 </table>
